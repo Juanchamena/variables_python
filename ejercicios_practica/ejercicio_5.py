@@ -23,3 +23,6 @@ palabra_2 = str(input())
 
 nueva_palabra = palabra_1[:3] + palabra_2[:2] 
 print(nueva_palabra)
+
+#prueba
+
