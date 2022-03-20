@@ -38,3 +38,14 @@ Cualquier duda con estos métodos pueden consultarla por el campus
 
 print('Ahora si! buena suerte')
 # Empezar aquí la resolución del ejercicio
+nombre = str(input())
+print(nombre.lower())
+print(nombre.upper())
+
+primer_letra = nombre[0]
+resto = nombre[1:]
+
+print(primer_letra.upper() + resto.lower())
+
+
+
